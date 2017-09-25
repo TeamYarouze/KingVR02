@@ -1,0 +1,10 @@
+diff a/ProjectVR/Assets/Prefab/Character/Afterburner.prefab b/ProjectVR/Assets/Prefab/Character/Afterburner.prefab	(rejected hunks)
+@@ -2698,7 +2698,7 @@
+   simulationSpeed: 1
+   looping: 1
+   prewarm: 0
+-  playOnAwake: 1
++  playOnAwake: 0
+   autoRandomSeed: 1
+   startDelay:
+     scalar: 0
